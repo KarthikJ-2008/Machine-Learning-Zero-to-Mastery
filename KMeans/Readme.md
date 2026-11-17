@@ -73,7 +73,7 @@ $\displaystyle d = \sqrt{(x_2-x_1)^2 + (y_2-y_1)^2}$
 - `x₁, y₁` = Coordinates of the first point.
 - `x₂, y₂` = Coordinates of the second point.
 
-## 6. How to Choose the Best K Value?
+##  How to Choose the Best K Value?
 
 The **Elbow Method** helps find a suitable number of clusters.
 

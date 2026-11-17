@@ -72,7 +72,7 @@ SVM works by finding the best boundary to separate different classes.
 - Used when data cannot be separated using a straight line.
 - Uses the Kernel Trick to create a non-linear decision boundary.
 
-## 7. Important Parameters of SVC()
+## Important Parameters of SVC()
 
 SVC stands for Support Vector Classifier. It is available in the Scikit-learn library.
 
@@ -97,14 +97,14 @@ SVC stands for Support Vector Classifier. It is available in the Scikit-learn li
   - `rbf`
   - `sigmoid`
 
-## 8. Advantages of SVM
+##  Advantages of SVM
 
 - Works well with high-dimensional data.
 - Effective when there is a clear margin between classes.
 - Can handle both linear and non-linear classification.
 - Uses support vectors to determine the decision boundary.
 
-## 9. Disadvantages of SVM
+##  Disadvantages of SVM
 
 - Can be slow for large datasets.
 - Choosing the correct kernel and parameters can be difficult.
